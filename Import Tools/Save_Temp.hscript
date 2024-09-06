@@ -1,0 +1,1 @@
+opscript -G -r / > $TEMP/temp.cmd
