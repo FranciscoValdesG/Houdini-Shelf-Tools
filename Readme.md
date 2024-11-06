@@ -13,7 +13,12 @@
 
 >Create a new tool on the shelf. Choose a name and an icon for it. Take your time for the icon. 
 
+
+>Copy the code inside the “Script” tab and push “Apply” button and that it's all.
+
 ## Sop Tools
+>The Sop Tools was created for modify geometry in Sop context.
+
 ### Split Geo
 
 ## Export/Import Tools
